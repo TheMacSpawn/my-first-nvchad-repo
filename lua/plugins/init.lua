@@ -67,7 +67,7 @@ return {
 	},
 
   -- test new blink
-  -- { import = "nvchad.blink.lazyspec" },
+  -- { import = "nvchad.blink.lazyspec" }a,
 
   -- {
   -- 	"nvim-treesitter/nvim-treesitter",
