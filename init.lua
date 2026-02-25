@@ -1,5 +1,5 @@
-require("lua.config.lazy")
-require("lua.remaps")
-require("lua.options")
+require("config.lazy")
+require("remaps")
+require("options")
 require("catppuccin").setup()
 vim.cmd.colorscheme "catppuccin"
